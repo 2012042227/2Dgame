@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# 2Dgame
+#
+
+projectname: 2Dgame
+vendorid: com.mycompany
+mainmodule: com.mycompany.2dgame
